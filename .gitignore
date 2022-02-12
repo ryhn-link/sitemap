@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sitemap
+sitemap.so
+sitemap.dylib
+sitemap.dll
+sitemap.a
+sitemap.lib
+sitemap-test-*
+*.exe
+*.o
+*.obj
+*.lst

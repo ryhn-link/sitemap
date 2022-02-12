@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"copyright": "Copyright © 2022, ryhon",
+	"description": "Sitemap generation library for D",
+	"license": "LGPL-3.0",
+	"name": "sitemap",
+	"subPackages": 
+	[
+		"demo"
+	]
+}
